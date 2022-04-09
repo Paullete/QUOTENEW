@@ -8,9 +8,9 @@ import { Quote } from 'src/app/quote';
 })
 export class QuoteComponent implements OnInit {
   quotes: Quote[] = [
-    new Quote(1, 'Problem Solving', '"When assigned a colligue it assist, it is not a punishment, consider it a chance to boost your knowledge and skills."', 'TM. Mercy Nzau', 'Levy', new Date(2021, 8, 17), 0, 0),
+    new Quote(1, 'Love', '"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."', 'Pinocchio', 'Nosey', new Date(2021, 8, 17), 0, 0),
 
-    new Quote(2, 'Success', '"Self-belief  and Hard work will always earn you success."', '-Virat Kohli', 'Fay Kotech`', new Date(2021, 8, 23), 0, 0),
+    new Quote(2, 'Courage', '"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."', 'Pote', 'Walden Schaefer', new Date(2021, 8, 23), 0, 0),
 
     new Quote(3, 'Love', ' “I have learned not to worry about love; but to honor its coming with all my heart.”', '-Alice Walker', '-Isaac Otieno>', new Date(2021, 8, 29), 0, 0),
 
