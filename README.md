@@ -46,7 +46,7 @@ This website is a quote posting website made with typescript.
 ## Live Link
 
 You can preview the live working version here
-https://paullete.github.io/PotePizza/
+ https://paullete.github.io/QUOTENEW/
 
 ## Reference
 * Materialize CSS
