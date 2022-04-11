@@ -17,6 +17,7 @@
     
     
     
+    
 }
 #addquote_btn::before{
     pointer-events: none;
@@ -42,13 +43,13 @@
     right: 0;
     box-shadow: 0 0 2em rgb(243, 10, 224);
     opacity: 0;
-    background-color: rgb(243, 10, 224);
+    background: rgb(243, 10, 224);
     transition: opacity 100ms linear;
     z-index: -1;
 }
 #addquote_btn:hover,
 #addquote_btn:focus{
-    background: rgb(243, 10, 224) ;
+    /* background: rgb(243, 10, 224) ; */
     text-shadow: none;
 
 }
